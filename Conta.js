@@ -1,4 +1,4 @@
-export class Conta{
+export class Conta {
  constructor(saldoInicial, cliente, agencia) {
 
   this._saldo = saldoInicial;
