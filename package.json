@@ -6,15 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/viniblack/JavaScript-OrientacaoObjetos.git"
-  },
-  "author": "Black",
+  "author": "",
   "license": "ISC",
-  "type": "module",
-  "bugs": {
-    "url": "https://github.com/viniblack/JavaScript-OrientacaoObjetos/issues"
-  },
-  "homepage": "https://github.com/viniblack/JavaScript-OrientacaoObjetos#readme"
+  "type": "module"
 }
